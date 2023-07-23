@@ -36,6 +36,7 @@ class _HomePageState extends State<HomePage> {
      Colors.green,
      Colors.yellow,
      Colors.blue,
+     Colors.black87,
   ];
   var colorC = colorList[0];
   static const List<String> _quoteList = [
